@@ -1,6 +1,6 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://twitter.com/abhi9ab_)
 <h1 align="center">Hi 👋, I'm Abhinab das</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)"/>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi9ab&label=Profile%20views&color=0e75b6&style=flat" alt="abhi9ab" /> </p>
 
