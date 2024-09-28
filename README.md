@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps and React Native<br>
+🌱 I’m currently learning Generative AI and React Native<br>
 
 
 ## 🌐 Socials:
