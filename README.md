@@ -1,6 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning Generative AI and looking to collaborate on projects.
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhi9ab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
